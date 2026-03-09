@@ -26,6 +26,62 @@ let Destinations = [
     include: "Hotel, makanan, minuman, transportasi",
     image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOxMCTq6FMTDcGQBLQqftmgcHzeFXn-2ZPpg&s",
   },
+
+  {
+    name: "Pantai Selatan Bantul Yogyakarta",
+    price: "Rp. 1.700.000",
+    include: "Hotel, makanan, minuman, transportasi",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOxMCTq6FMTDcGQBLQqftmgcHzeFXn-2ZPpg&s",
+  },
+
+  {
+    name: "Pantai Selatan Bantul Yogyakarta",
+    price: "Rp. 1.700.000",
+    include: "Hotel, makanan, minuman, transportasi",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOxMCTq6FMTDcGQBLQqftmgcHzeFXn-2ZPpg&s",
+  },
+
+  {
+    name: "Pantai Selatan Bantul Yogyakarta",
+    price: "Rp. 1.700.000",
+    include: "Hotel, makanan, minuman, transportasi",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOxMCTq6FMTDcGQBLQqftmgcHzeFXn-2ZPpg&s",
+  },
+
+  {
+    name: "Pantai Selatan Bantul Yogyakarta",
+    price: "Rp. 1.700.000",
+    include: "Hotel, makanan, minuman, transportasi",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOxMCTq6FMTDcGQBLQqftmgcHzeFXn-2ZPpg&s",
+  },
+  
+  {
+    name: "Pantai Selatan Bantul Yogyakarta",
+    price: "Rp. 1.700.000",
+    include: "Hotel, makanan, minuman, transportasi",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOxMCTq6FMTDcGQBLQqftmgcHzeFXn-2ZPpg&s",
+  },
+
+  {
+    name: "Pantai Selatan Bantul Yogyakarta",
+    price: "Rp. 1.700.000",
+    include: "Hotel, makanan, minuman, transportasi",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOxMCTq6FMTDcGQBLQqftmgcHzeFXn-2ZPpg&s",
+  },
+
+  {
+    name: "Pantai Selatan Bantul Yogyakarta",
+    price: "Rp. 1.700.000",
+    include: "Hotel, makanan, minuman, transportasi",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOxMCTq6FMTDcGQBLQqftmgcHzeFXn-2ZPpg&s",
+  },
+
+  {
+    name: "Pantai Selatan Bantul Yogyakarta",
+    price: "Rp. 1.700.000",
+    include: "Hotel, makanan, minuman, transportasi",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOxMCTq6FMTDcGQBLQqftmgcHzeFXn-2ZPpg&s",
+  },
 ];
 
 const cardContainer = document.getElementById("kartu-produk");
